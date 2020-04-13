@@ -1,0 +1,5 @@
+chromeDriver=C:\\Users\\yamini\\eclipse-workspace\\CodeCharge-Cucumber\\src\\test\\resources\\Binaries\\chromedriver.exe
+firefoxDriver=C:\\Users\\yamini\\eclipse-workspace\\CodeCharge-Cucumber\\src\\test\\resources\\Binaries\\geckodriver.exe
+URL=http://examples.codecharge.com//TaskManager//Default.php
+Excelpath=C:\\Users\\yamini\\eclipse-workspace\\CodeCharge-Cucumber\\src\\test\\resources\\XLSX\\TestData1.xlsx
+URL1=http://examples.codecharge.com/TaskManager/Administration.php
